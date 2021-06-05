@@ -2,4 +2,4 @@
 - 👀 Lubie programować w pythonie
 - 🌱 Uczę się javascript
 - 😋 Jak będzie mi się chciało to coś udostępnie
-- 📫 Jak chcesz ze mną porozmawiać to zapraszam discorda: [potem dodam XD]
+- 📫 Jak chcesz ze mną porozmawiać to zapraszam discorda: (Discord)[https://discord.gg/RDguSCg7zn]
